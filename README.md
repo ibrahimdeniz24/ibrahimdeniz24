@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İbrahim Deniz</h1>
 <h3 align="center">I'm a passionate full stack developer from Turkey</h3>
 
-- 🌱 I’m currently learning **C#, OOP, .NET CORE, React, SQL, ASPN.NET,nodjs,boostsrap,**
+- 🌱 I’m currently learning **C#, OOP, .NET CORE, React, SQL, ASPN.NET, Nodejs ,Boostsrap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
