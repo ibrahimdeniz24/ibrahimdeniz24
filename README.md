@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm İbrahim Deniz</h1>
+<h1 align="center">Hi 👋, I'm İbrahim Deniz</h1>
 <h3 align="center">I'm a passionate full stack developer from Turkey</h3>
 
 - 🌱 I’m currently learning **.Net, C#, OOP, SQL, ORM / EF Core, Web Technology HTML-CSS-JS, ASP.NET CORE, MVC, API, SOLID, Frontend - React,**
